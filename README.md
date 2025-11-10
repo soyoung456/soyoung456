@@ -3,12 +3,12 @@
 Department of Software (2023) & Department of Statistics (2024)
 
 ### ✉️ Contact
-> E-mail : <yunsy@sookmyung.ac.kr><br>
-instagram : [@sso0eda](https://www.instagram.com/sso0eda/)
+> - E-mail : <yunsy@sookmyung.ac.kr>
+> - instagram : [@sso0eda](https://www.instagram.com/sso0eda/)
 ---
 #### Career
 | Preiod | Title | 
-|:-------|:--------|
+|:-------|:------|
 | 2023.03 - 2024.02 | 숙명여대 프로그래밍 학회 FORZA 27기 부원 |
 | 2024.03 - 2025.02 | 숙명여대 프로그래밍 학회 FORZA 28기 회장 |
 | 2024.03 - 2025.02 | 숙명여대 데이터 분석 학회 DACOS 2기 부원 |
