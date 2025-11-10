@@ -16,8 +16,8 @@ Department of Software (2023) & Department of Statistics (2024)
 | 2024.03 - 2025.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기 부원 |
 
 #### Achievements
-- ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참여
-- ⭐ 2025 숙명여대 DACOS 제3회 데이터톤 참여
+- ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참가
+- ⭐ 2025 숙명여대 DACOS 제3회 데이터톤 참가
 - 🏆 2025 AWS x 숙명여대 캠퍼스타운 AI 해커톤 대상
 
 #### Project
