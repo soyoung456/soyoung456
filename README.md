@@ -1,4 +1,4 @@
-### 🎓 Eduaction
+### 🎓 I'm Soyoung
 > Sookmyung Women's University,<br>
 Department of Software (2023) & Department of Statistics (2024)
 
