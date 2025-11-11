@@ -13,9 +13,9 @@ Department of Software (2023) & Department of Statistics (2024)
 | 2024.03 - 2025.02 | 숙명여대 프로그래밍 학회 FORZA 28기 회장 |
 | 2024.03 - 2025.02 | 숙명여대 데이터 분석 학회 DACOS 2기 부원 |
 | 2025.01 - 2026.02 | 숙명여대 데이터 분석 학회 DACOS 3기 운영진 |
-| 2025.03 - 2026.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기 부원 |
+| 2025.03 - 2026.03 | 숙명여대 APP & WEB 개발 학회 APPS 12기 부원 |
 
-#### Achievements
+#### Achievement
 - ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참가
 - ⭐ 2025 숙명여대 DACOS 제3회 데이터톤 참가
 - 🏆 2025 AWS x 숙명여대 캠퍼스타운 AI 해커톤 대상
