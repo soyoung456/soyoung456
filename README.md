@@ -1,6 +1,6 @@
-### 🎓 I'm Soyoung
+### 🎓 Hi! I'm Soyoung
 > Sookmyung Women's University,<br>
-Department of Software (2023) & Department of Statistics (2024)
+Department of Software & Department of Statistics
 
 ### ✉️ Contact
 > - E-mail : <yunsy@sookmyung.ac.kr>
