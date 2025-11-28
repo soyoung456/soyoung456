@@ -21,8 +21,8 @@ Department of Software & Department of Statistics
 | 2025.03 - 2025.06 | 스트레스 지수 분류 모델 | Data / AI | Python |
 | 2025.03 - 2025.12 | 인터랙티브 감정 다이어리 서비스, EMORY | Frontend | React |
 | 2025.03 - 2025.12 | 감성 편지 작성 시각화 서비스, ULTS | Frontend | React |
-| 2025.09 - 2025.12 | 사용자 맞춤 건강 지향 식품 추천 시스템, BareEat | Data / AI |
-| 2025.09 - 2026.01 | 팀원 매칭 추천 시스템, S.Link | Data / AI |
+| 2025.09 - 2025.12 | 사용자 맞춤 건강 지향 식품 추천 시스템, BareEat | Data / AI | Python |
+| 2025.09 - 2026.01 | 팀원 매칭 추천 시스템, S.Link | Data / AI | Python |
 
 #### Achievement
 - ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참가
