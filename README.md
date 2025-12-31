@@ -14,7 +14,7 @@ Department of Software & Department of Statistics
 | 2024.03 - 2025.01 | 숙명여대 데이터 분석 학회 DACOS 2기 부원 |
 | 2025.02 - 2026.01 | 숙명여대 데이터 분석 학회 DACOS 3기 운영진 |
 | 2025.03 - 2026.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기 부원 |
-| 2026.01 - 2026.02 | 구름 인턴십 |
+| 2026.01 - 2026.01 | 구름 인턴십 |
 | 2026.02 - 2027.01 | 숙명여대 데이터 분석 학회 DACOS 4기 회장 |
 | 2026.02 - 2027.01 | 숙명여대 APP & WEB 개발 학회 APPS 13기 부회장 |
 
@@ -22,8 +22,8 @@ Department of Software & Department of Statistics
 | Duration | Title | Role | Stack | 
 |:---------|:------|:-----|:------|
 | 2025.03 - 2025.06 | 스트레스 지수 분류 모델 | Data / AI | Python |
-| 2025.03 - 2025.12 | 인터랙티브 감정 다이어리 서비스, EMORY | Frontend | React |
-| 2025.03 - 2025.12 | 감성 편지 작성 시각화 서비스, ULTS | Frontend | React |
+| 2025.03 - 2026.01 | 인터랙티브 감정 다이어리 서비스, EMORY | Frontend | React |
+| 2025.03 - 2025.01 | 감성 편지 작성 시각화 서비스, ULTS | Frontend | React |
 | 2025.09 - 2025.11 | 서울시 전통 시장 주변 주차난 예측 서비스 | Data / AI | Python |
 | 2025.09 - 2025.12 | 사용자 맞춤 건강 지향 식품 추천 시스템, BareEat | Data / AI | Python |
 | 2025.09 - 2026.01 | 팀원 매칭 추천 시스템, S.Link | Data / AI | Python |
