@@ -26,7 +26,7 @@ Department of Software & Department of Statistics
 | 2025.09 - 2025.11 | 서울시 전통 시장 주변 주차난 예측 서비스 | Data / AI | Python |
 | 2025.09 - 2025.12 | 사용자 맞춤 건강 지향 식품 추천 시스템, BareEat | Data / AI | Python |
 | 2025.09 - 2026.01 | 팀원 매칭 추천 시스템, S.Link | Data / AI | Python |
-| 2026.01 - 2026.01 | 시장 자동 모니터링 시스템 | DATA / AI | JavaScript |
+| 2026.01 - 2026.01 | 시장 자동 모니터링 시스템 at goorm | DATA / AI | JavaScript |
 
 #### Achievement
 - ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참가
