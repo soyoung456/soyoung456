@@ -9,12 +9,11 @@ Department of Software & Department of Statistics
 #### Career
 | Duration | Title | 
 |:---------|:------|
-| 2023.03 - 2024.01 | 숙명여대 프로그래밍 학회 FORZA 27기 부원 |
+| 2023.03 - 2024.01 | 숙명여대 프로그래밍 학회 FORZA 27기 |
 | 2024.02 - 2025.01 | 숙명여대 프로그래밍 학회 FORZA 28기 회장 |
-| 2024.03 - 2025.01 | 숙명여대 데이터 분석 학회 DACOS 2기 부원 |
+| 2024.03 - 2025.01 | 숙명여대 데이터 분석 학회 DACOS 2기 |
 | 2025.02 - 2026.01 | 숙명여대 데이터 분석 학회 DACOS 3기 운영진 |
-| 2025.03 - 2026.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기 부원 |
-| 2026.01 - 2026.01 | 구름 인턴십 |
+| 2025.03 - 2026.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기 |
 | 2026.02 - 2027.01 | 숙명여대 데이터 분석 학회 DACOS 4기 회장 |
 | 2026.02 - 2027.01 | 숙명여대 APP & WEB 개발 학회 APPS 13기 부회장 |
 
@@ -27,6 +26,7 @@ Department of Software & Department of Statistics
 | 2025.09 - 2025.11 | 서울시 전통 시장 주변 주차난 예측 서비스 | Data / AI | Python |
 | 2025.09 - 2025.12 | 사용자 맞춤 건강 지향 식품 추천 시스템, BareEat | Data / AI | Python |
 | 2025.09 - 2026.01 | 팀원 매칭 추천 시스템, S.Link | Data / AI | Python |
+| 2026.01 - 2026.01 | 시장 자동 모니터링 시스템 | DATA / AI | JavaScript |
 
 #### Achievement
 - ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참가
