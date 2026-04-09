@@ -6,7 +6,7 @@ Department of Software & Department of Statistics
 > - E-mail : <yunsy@sookmyung.ac.kr>
 > - instagram : [@sso0eda](https://www.instagram.com/sso0eda/)
 ---
-#### Skills
+#### Skill
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white">
