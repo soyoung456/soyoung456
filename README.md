@@ -41,7 +41,7 @@ Department of Software & Department of Statistics
 | 2025.09 - 2026.01 | 숙명여대 팀원 매칭 추천 시스템, S.Link | Data / AI | Python |
 | 2026.01 - 2026.01 | 시장 자동 모니터링 시스템 at goorm | Data / AI | JavaScript |
 | 2026.03 - 2027.01 | 컬러 심리 타로 서비스, falette | Frontend | React |
-| 2026.03 - 2027.01 | 사회적 행동 도움 서비스 | Frontend | Flutter |
+| 2026.03 - 2027.01 | 사회적 행동 도움 서비스, MindLog | Frontend | Flutter |
 
 #### Achievement
 - ⭐ 2024 숙명여대 DACOS 제2회 데이터톤 참가
