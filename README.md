@@ -1,6 +1,6 @@
 ### 🎓 Hi! I'm Soyoung
 > Sookmyung Women's University,<br>
-Department of Software & Department of Statistics
+Major in Data Science & Department of Statistics
 
 ### ✉️ Contact
 > - E-mail : <yunsy@sookmyung.ac.kr>
