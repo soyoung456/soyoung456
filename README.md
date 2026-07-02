@@ -25,9 +25,9 @@ Major in Data Science & Department of Statistics
 #### Experience
 | Duration | Title | 
 |:---------|:------|
-| 2023.03 - 2025.01 | 숙명여대 프로그래밍 학회 FORZA 27기, 28기 회장 |
-| 2024.03 - 2027.01 | 숙명여대 데이터 분석 학회 DACOS 2기, 3기 운영진, 4기 회장 |
-| 2025.03 - 2027.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기, 13기 부회장 |
+| 2023.03 - 2025.01 | 숙명여대 프로그래밍 학회 FORZA 27기 부원 & 28기 회장 |
+| 2024.03 - 2027.01 | 숙명여대 데이터 분석 학회 DACOS 2기 부원 & 3기 운영진 & 4기 회장 |
+| 2025.03 - 2027.01 | 숙명여대 APP & WEB 개발 학회 APPS 12기 부원 &  13기 부회장 |
 
 #### Project
 | Duration | Title | Role | Stack | 
